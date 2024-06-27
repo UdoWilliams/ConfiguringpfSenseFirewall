@@ -1,2 +1,3 @@
 # ConfiguringpfSenseFirewall
 Configuring Firewall Interfaces with pfSense
+[Configuring_Firewall_Interfaces_with_pfSense_3e_-_Udo_Udo_Williams.pdf](https://github.com/user-attachments/files/16007669/Configuring_Firewall_Interfaces_with_pfSense_3e_-_Udo_Udo_Williams.pdf)
